@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Parrot WTF",
+  "short_name": "Parrot WTF",
+  "description": "For when the only way to express your rage is via angry parrot",
+  "version": "0.0.1",
+  "permissions": [
+    "contextMenus", 
+    "tabs"],
+    "icons": { 
+      "48": "parrot48.png",
+     "128": "parrot128.png" },
+     "browser_action": {
+      "default_icon": "seagull128.png",
+      "default_title": "WTF"
+  },
+  "background": {
+      "scripts": ["app.js"],
+      "persistent": false
+  }
+    
+}
