@@ -1,4 +1,3 @@
-# fragrance-search
-A chrome extension for looking up fragrances on fragrantica and basenotes.
+# Parrot WTF Chrome Extension
+A companion extension for parrot.wtf
 
-**Not yet live, but check back here soon!** 
